@@ -5,6 +5,7 @@ Installation de Dploy
 <pre><code>npm install dploy -g</code></pre>
 
 - Vérifié l'installation avec la commande suivante : 
+
 <pre><code>dploy --version</code></pre>
 
 - Aller dans le répertoire du projet
