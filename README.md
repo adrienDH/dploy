@@ -33,7 +33,7 @@ Sécurité
 
 Utilisation
 ==
--lancer la commande dans le répertoire du projet : 
+- lancer la commande dans le répertoire du projet : 
 <pre><code>dploy</code></pre>
  ou
 <pre><code>dploy mon-environnement</code></pre>
