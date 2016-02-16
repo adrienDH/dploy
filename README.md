@@ -1,3 +1,9 @@
+Dploy c'est quoi ?
+==
+
+Dploy permet de déployer son code sur un serveur FTP distant efficacement en toute sécurité.
+Dploy s'utilise avec GIT et permet de mettre en ligne le code d'un commit.
+
 Installation de Dploy
 ==
 - Avoir npm d'installé 
